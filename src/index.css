@@ -1,0 +1,50 @@
+@font-face {
+  font-family: AdreenaScript;
+  src: url('./fonts/AdreenaScript.ttf');
+  src: url('./fonts/AdreenaScript.otf');
+}
+
+/* #landing {
+  background-image: url("../imgs/backgrounds/websiteBackground.png"); 
+} */
+
+#inno {
+  font-family: AdreenaScript;
+  color: #7257b3;
+}
+
+#phoneImg {
+  width: 20vw;
+}
+
+#banner .grid {
+  height: 90vh;
+  width: 100%;
+}
+
+#title .ui.header {
+  font-size: 6.05em;
+}
+
+#commited {
+  margin: 5%;
+}
+
+#why {
+  margin: 5%;
+}
+
+#learning {
+  border: #c5f1f1 10px solid;
+  background-color: #c5f1f1;
+}
+
+#resources {
+  border: #6bb1be 10px solid;
+  background-color: #6bb1be;
+}
+
+#experience {
+  border: #f8d6fc 10px solid;
+  background-color: #f8d6fc;
+}
